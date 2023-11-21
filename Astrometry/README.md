@@ -1,4 +1,4 @@
 # Astrometry
 Astrometry is the science which deals with the positions and motions of celestial objects. Astrometry is now one of many fields of research within astronomy. Historically, astrometry was all that astronomy was about until about the 19th century. Toward the end of the 19th century not only the directions, i.e. angles between celestial objects as seen on the celestial sphere were measured but also the "quality of light", specifically the light intensity (photometry) and color (spectroscopy, light intensity as function of color or wavelength). This was the birth of astrophysics. The term astrophysics, often used to distinguish most of current astronomical research from the classical astronomy (i.e. astrometry) is misleading, because astrometry also is certainly part of physics or astrophysics. Measurements of distances to celestial objects by triangulation for example is at the core of astrometry and it forms the basis of all astrophysics; without knowing the distances to planets, satellites, stars, and galaxies, no correct understanding of the cosmos in which we live can be achieved.
 
-[Astrometry Projects](Astrometry)
+
