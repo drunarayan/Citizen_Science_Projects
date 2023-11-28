@@ -8,7 +8,7 @@ The process of measuring the  brightness of stars is called photometry.  In this
 
 When you look up into the night sky, do you wonder what's out there beyond our solar system? So do we! Come join us in learning more about exoplanets, the worlds that orbit distant stars.
 
-<img src="FinalLightCurve_HAT-P-32 b_2017-12-19.png" width=300px />
+<img src="FinalLightCurve_HAT-P-32 b_2017-12-19.png" width=700px />
 
 ## Expectations
 1. Obtain exoplanetary transits of multple star targets (stars and planets) from amateur astronomers for analysis. 

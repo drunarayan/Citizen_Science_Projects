@@ -9,7 +9,7 @@ See below is the spectra obtained from a star called Minelauva - a Red Giant sta
 
 ## Expectations
 1. Gather spectral images of multple targets (stars and planets) through the Bush Telescope in night-time observing sessions using a diffraction grating. 
-1. Expecting about 4-6 sessions in total.
+1. Expecting about 4-6 observing sessions.
 1. Process images via stacking to improve signal to noise ratio
 1. Analyse the processed spectra in the RSpec software.
 1. Identify the spectral lines and the chemical composition of the stars and planets that created them.
