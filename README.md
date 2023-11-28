@@ -1,6 +1,6 @@
 # Citizen_Science_Projects
 The GitHub repository for Citizen Science Projects in Astronomy & Computing targeted at High/Middle school students
-
+<img src="milkyway.png" width=700px />
 ## [Astrometry Projects](Astrometry)
 ## [Photometry Projects](Photometry)
 
