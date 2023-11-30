@@ -1,7 +1,7 @@
 ### Star Magnitudes & Logarithms
 ### 
 
-[Click here to pull in your materials for this project into your JupyterLab account](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2FCitizen_Science_projects&branch=gh-pages&urlpath=lab%2Ftree%2FCitizen_Science_projects%2Fstar_magnitudes%2Fstar_plx_lum_mag.ipynb?reset).
+[Click here to pull in your materials for this project into your JupyterLab account](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2FCitizen_Science_projects&branch=gh-pages&urlpath=lab%2Ftree%2FCitizen_Science_Projects%2Fnotebooks%2Fstar_magnitudes%2Fstar_plx_lum_mag.ipynb?reset).
 
 
 You will be asked to login. If you do not have a login, please email the teacher.
