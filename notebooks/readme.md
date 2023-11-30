@@ -46,7 +46,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
-* [Download Seminar Outline here as a PDF file](https://drunarayan.github.io/Citizen_Science_Projectsnotebooks/p4a_session_outline.pdf)
+* [Download Seminar Outline here as a PDF file](https://drunarayan.github.io/Citizen_Science_Projects/notebooks/p4a_session_outline.pdf)
 * [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction)
 * You would have separately received an invitation to Slack channel #python-intro - please accept it and see the Jupyter username created for you. This will be the primary mode of communication outside of the classrom!
 * Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
@@ -54,13 +54,13 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 Project|Topic Description
 ---|---
-0|<a href=a href="https://drunarayan.github.io/Citizen_Science_Projectsnotebooks/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE</a>
-1|<a href="https://drunarayan.github.io/Citizen_Science_Projectsnotebooks/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
-2|<a href="https://drunarayan.github.io/Citizen_Science_Projectsnotebooks/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
-3|<a href="https://drunarayan.github.io/Citizen_Science_Projectsnotebooks/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
-4|<a href="https://drunarayan.github.io/Citizen_Science_Projectsnotebooks/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
-5|<a href="https://drunarayan.github.io/Citizen_Science_Projectsnotebooks/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - the keystone of Astronomy</a>
-6|<a href="https://drunarayan.github.io/Citizen_Science_Projectsnotebooks/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - SHOW & TELL STUDENT WORK!</a>
+0|<a href=a href="https://drunarayan.github.io/Citizen_Science_Projects/notebooks/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE</a>
+1|<a href="https://drunarayan.github.io/Citizen_Science_Projects/notebooks/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
+2|<a href="https://drunarayan.github.io/Citizen_Science_Projects/notebooks/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
+3|<a href="https://drunarayan.github.io/Citizen_Science_Projects/notebooks/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
+4|<a href="https://drunarayan.github.io/Citizen_Science_Projects/notebooks/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
+5|<a href="https://drunarayan.github.io/Citizen_Science_Projects/notebooks/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - the keystone of Astronomy</a>
+6|<a href="https://drunarayan.github.io/Citizen_Science_Projects/notebooks/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - SHOW & TELL STUDENT WORK!</a>
 
 
 
