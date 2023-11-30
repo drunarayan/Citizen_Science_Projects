@@ -3,6 +3,7 @@ The GitHub repository for Citizen Science Projects in Astronomy & Computing targ
 <img src="milkyway.png" width=700px />
 ## [Astrometry Projects](Astrometry)
 ## [Photometry Projects](Photometry)
+## [Basics JupyterLab Notebooks](notebooks)
 
 ## Google Meeting Links and Recording Links 
 
