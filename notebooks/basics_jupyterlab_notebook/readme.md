@@ -22,7 +22,7 @@ Please complete the folowing steps in Sequence to open and modify your first Jup
 
 1. Create a password of your choosing - write it down and use it in the step below. Your first login will create the user and setup your password as typed. All future logins will use this password. Please do not forget it.
 
-1. [Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2FCitizen_Science_Projects&branch=gh-pages&urlpath=lab%2Ftree%2FCitizen_Science_Projects%2Fnotebooks%2Fnotebooks%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset). This should open your own Jupyter Notebook 'intro_to_jupyter.ipynb' in the JupyterLab IDE.
+1. [Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2FCitizen_Science_Projects&branch=gh-pages&urlpath=lab%2Ftree%2FCitizen_Science_Projects%2Fnotebooks%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset). This should open your own Jupyter Notebook 'intro_to_jupyter.ipynb' in the JupyterLab IDE.
 
 1. Read instructions and execute each cell by pressing Shift-Enter on your keyboard
 
