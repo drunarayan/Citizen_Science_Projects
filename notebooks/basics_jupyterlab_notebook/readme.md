@@ -18,7 +18,7 @@ JupyterLab is one interface used to create and interact with Jupyter Notebooks. 
 
 Please complete the folowing steps in Sequence to open and modify your first Jupyter Notebooks
 
-1. [Look here to find your assigned user name]()
+1. [Look here to find your assigned user name](participants.md)
 
 1. Create a password of your choosing - write it down and use it in the step below. Your first login will create the user and setup your password as typed. All future logins will use this password. Please do not forget it.
 
