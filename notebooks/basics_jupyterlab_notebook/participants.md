@@ -1,0 +1,10 @@
+no.|First|Last|username|email
+---|---|---|---|---|
+1|Coco|Rich|csp.coco|Colette.Rich@bush.edu
+1|William|Wise|csp.william|William.Wise@bush.edu
+1|Zorian|Chakraborty|csp.zorian|zorian.chakraborty@bush.edu
+1|Louis|Petersen|csp.louis|Louis.Petersen@bush.edu
+1|Sidney|Welsh|csp.sidney|sid.b.welsh@gmail.com
+1|Tom|Field|csp.tom|tom@fieldtestedsystems.com
+1|Pat|Boyce|csp.pat|pat@boyce-astro.org
+1|Chandru|Narayan|csp.chandru|chandru.narayan@bush.edu

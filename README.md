@@ -10,6 +10,6 @@ The GitHub repository for Citizen Science Projects in Astronomy & Computing targ
 Item|Date|Agenda|Google Meet Link|Google Recording Link
 ---|---|---|---|---|
 1|Mon, Nov 20th, 2023 6:00 - 7:00 PM|Intro & Roles|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1vIJC9bdARp3I229-IrN4-zbeXCbpur00/view?usp=sharing)
-2|Mon, Nov 27th, 2023 6:00 - 7:00 PM|Project Selection|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
-3|To Be Announced ...|Agenda TBA|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+2|Mon, Nov 27th, 2023 6:00 - 7:00 PM|Project Selection|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/13SBWboNWtZF7jt3Uz5Gcj3RXyonkTKUX/view?usp=sharing)
+3|Thu, Dec 14th, 2023 5:30 - 7:00 PM|Theory & Jupyter Notebooks for our CS projects|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
 
