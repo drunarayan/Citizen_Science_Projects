@@ -3,7 +3,7 @@
 
 You will be asked to login. If you do not have a login, please email the teacher.
 
-You will be completing these 3 notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://drunarayan.github.io/Citizen_Science_Projects/notebooks/)
+You will be completing these 3 notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://drunarayan.github.io/Citizen_Science_Projects/notebooks/basics_jupyterlab_notebook/)
 
 
 #### 1. [Star Magnitudes & Logarithms Notebook](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2FCitizen_Science_projects&branch=gh-pages&urlpath=lab%2Ftree%2FCitizen_Science_Projects%2Fnotebooks%2Fstar_magnitudes%2Fstar_plx_lum_mag.ipynb?reset)
