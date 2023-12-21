@@ -4,6 +4,7 @@ The GitHub repository for Citizen Science Projects in Astronomy & Computing targ
 ## [Astrometry Projects](Astrometry)
 ## [Photometry Projects](Photometry)
 ## [Basics JupyterLab Notebooks](notebooks/basics_jupyterlab_notebook/)
+## [Stellar Luminosity Magnitudes & Logarithms Notebooks](notebooks/star_magnitudes/)
 
 ## Google Meeting Links and Recording Links 
 

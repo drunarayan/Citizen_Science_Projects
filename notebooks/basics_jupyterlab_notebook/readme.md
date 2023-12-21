@@ -28,4 +28,4 @@ Please complete the folowing steps in Sequence to open and modify your first Jup
 
 1. You can double-click to open and do the same for the other Jupyter Notebooks 'Intro.ipynb' and ‘Lorenz.ipynb’ from the panel on your left to do more advanced examples.
 
-1. [Kepler's Laws and Mass of Milky Way's Central Black Hole ](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2FCitizen_Science_Projects&branch=gh-pages&urlpath=lab%2Ftree%2FCitizen_Science_Projects%2Fnotebooks%2Fbasics_jupyterlab_notebook%2Fmilky_way_black_hole_mass.ipynb?reset).
+1. [Kepler's Laws and Mass of Milky Way's Central Black Hole](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2FCitizen_Science_Projects&branch=gh-pages&urlpath=lab%2Ftree%2FCitizen_Science_Projects%2Fnotebooks%2Fbasics_jupyterlab_notebook%2Fmilky_way_black_hole_mass.ipynb?reset).
