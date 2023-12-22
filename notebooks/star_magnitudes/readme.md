@@ -1,7 +1,6 @@
-### Star Magnitudes & Logarithms
-### 
+## Star Magnitudes & Logarithms
 
-You will be asked to login. If you do not have a login, please email the teacher.
+### You will be asked to login. If you do not have a login, please email the teacher.
 
 You will be completing these 3 notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://drunarayan.github.io/Citizen_Science_Projects/notebooks/basics_jupyterlab_notebook/)
 
