@@ -1,5 +1,9 @@
 # Citizen_Science_Projects
-The GitHub repository for Citizen Science Projects in Astronomy & Computing targeted at High/Middle school students
+
+
+This GitHub repository for Citizen Science Projects in Astronomy & Computing is targeted at High/Middle school students. This workshop will be conducted during the months during the 2023-2024 academic year. The workshop is sponsored by Boyce Astro Foundation, and Tom Fields. The workshop is developed and taught by Chandru Narayan as a volunteer effort to progress the cause for excellence in learning through applied science, mathematics & computing. Stuents tking this workshop will have thje opportunity to participate in citizen science projects with grants for Astronomy, and Computing and publish their work in science journals and other publications.
+
+
 <img src="milkyway.png" width=700px />
 ## [Astrometry Projects](Astrometry)
 ## [Photometry Projects](Photometry)
