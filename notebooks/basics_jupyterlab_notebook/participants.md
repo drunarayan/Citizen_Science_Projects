@@ -6,6 +6,7 @@ no.|First|Last|username|email
 4|Louis|Petersen|csp.louis|Louis.Petersen@bush.edu
 5|Sidney|Welsh|csp.sidney|sid.b.welsh@gmail.com
 6|Sujit|Nair|csp.sujit|sujit.maharajan@gmail.com
+7|Dhruv|Mehrotra|csp.dhruv|dhruv.mehrotra@gmail.com
 A|Tom|Field|csp.tom|tom@fieldtestedsystems.com
 B|Pat|Boyce|csp.pat|pat@boyce-astro.org
 C|Chandru|Narayan|csp.chandru|chandru.narayan@bush.edu
